@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takeshi" alt="takeshi" /></a> </p>
 
-- Hi, i'm Takeshi [Personal Website](https://takeshi my.id)
+- Hi, i'm Takeshi [Personal Website](https://takeshi.my.id)
 
 - 📫 How to reach me **shitake683@gmail.com**
 
