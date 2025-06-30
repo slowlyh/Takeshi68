@@ -1,5 +1,17 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
 <h1 align="center">Hi 👋, I'm Takeshi</h1>
 <h3 align="center">A newbie coders</h3>
+
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takeshi&label=Profile%20views&color=0e75b6&style=flat" alt="takeshi" /> </p>
 
@@ -17,3 +29,27 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takeshi&show_icons=true&theme=onedark&locale=en" alt="takeshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takeshi&theme=dark" alt="takeshi" /></p>
+
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
