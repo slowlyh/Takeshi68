@@ -1,28 +1,65 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Im-Dims;+I'm+a+beginner;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Hyuu</h1>
+<p align="center">
+  <img src="https://pin.it/4oOqANbbO" alt="welcome banner" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takeshi&label=Profile%20views&color=0e75b6&style=flat" alt="takeshi" /> </p>
+<h3 align="center">Hi there! I'm Hyuu 👋</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takeshi" alt="takeshi" /></a> </p>
+<p align="center">
+  I'm a passionate learner, always excited to explore new things. I may be a beginner, but I'm determined to keep improving every day! 🚀
+  
+- Currently a student  
+- Still a beginner in coding  
+- Not a master yet, but working on it!  
+- I love music and anime, and culture.
+</p>
 
-- Hi, i'm Takeshi [Personal Website](https://hyuu.tech)
+---
 
-- 📫 How to reach me **hyuuoffc@gmail.com**
+### 📝 **Biodata**
+For more info, visit my [GitHub profile](https://github.com/slowlyh).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```json
+{
+  "Fullname": "Hyuu",
+  "Nickname": "Slowlyh",
+  "Status": "Student",
+  "Location": "Banyumas, Jawa Tengah, Indonesia",
+  "Age": "Still figuring it out...",
+  "Birthday": "Undisclosed"
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takeshi68&show_icons=true&locale=en&layout=compact" alt="takeshi" /></p>
+### **🎵 Favorite Music**
+Check out what I’m listening to right now! 🎧
+<p align="center">
+  <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takeshi68&show_icons=true&theme=onedark&locale=en" alt="takeshi" /></p>
+### 🌐 **My Profile**
+Click the button below to visit my full profile:
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
+<p align="center">
+  <a href="https://hyuu.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-Visit%20Now-blue?style=for-the-badge&logo=web&logoColor=white" alt="Visit Profile">
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 Stats</h2> 
+  <div align="center"> 
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=slowlyh&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=slowlyh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+  <br/> 
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=slowlyh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+### 💖 **Support Me**1
+If you enjoy my work, consider supporting me with a donation!
+<p align="center"> 
+  <a href="https://saweria.co/slowlyh"> <img src="https://img.shields.io/badge/Donate-Saweria-ff3e00?style=for-the-badge&logo=steam&logoColor=white" /> </a> 
+  <a href="https://trakteer.id/slowlyh"> <img src="https://img.shields.io/badge/Donate-Trakteer-4B9F4A?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+</p>
