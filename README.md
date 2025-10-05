@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Im-Dims;+I'm+a+beginner;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Hyuu;I'm+a+beginner;Learning+to+Code+🚀;Loves+Anime+%26+Music+🎵;Always+Keep+Improving+💡" />
 </h1>
 
 <p align="center">
-  <img src="https://pin.it/4oOqANbbO" alt="welcome banner" />
+  <img src="https://files.catbox.moe/iegfc9.jpg" alt="welcome banner" />
 </p>
 
 <h3 align="center">Hi there! I'm Hyuu 👋</h3>
